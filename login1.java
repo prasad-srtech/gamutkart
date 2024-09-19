@@ -1,0 +1,4 @@
+public main
+
+var
+int
