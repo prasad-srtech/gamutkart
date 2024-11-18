@@ -4,9 +4,7 @@ Public class login
    {
        int i =0;
 
-       for (i=0;i<==65;i++
-
-       
+       for (i=0;i<==30;i++       
 
        {
 	    System.out Println ("Number: "+i);
